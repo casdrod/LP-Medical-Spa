@@ -267,9 +267,9 @@ footer .btn,.submit-btn{min-width: auto;width:245px; margin-top:0; color:#000;te
 ::-moz-placeholder{color:#555;font:400 15px/40px $font2}
 :-ms-input-placeholder{color:#555;font:400 15px/40px $font2}
 footer{padding:0;position:relative;text-align:center; background-color: #131712;
-    #footer-content{max-width: 1500px;background-color: #fafafa;justify-content: space-between;margin:auto;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;padding:60px 10px 20px;background-color: #131712;
-        h3 {font-size: 20px; font-family: $font2; color: $primary; font-weight: 700; margin-bottom: 20px;text-align:left;}
-        h2{text-align:left;color:$primary; font-family: $font2;font-size: 20px;text-align:left;margin-bottom: 20px;}
+    #footer-content{max-width: 1200px;background-color: #fafafa;justify-content: space-between;margin:auto;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;padding:60px 10px 20px;background-color: #131712;
+        h3 {font-size: 20px; font-family: $font2; color: $primary; font-weight: 700; margin-bottom: 30px;text-align:left;}
+        h2{text-align:left;color:$primary; font-family: $font2;font-size: 20px;text-align:left;margin-bottom: 20px;margin-top: 0;}
         #footer-form {
             > h2 {color: $primary;}
             /* --- online appointment form --- */
@@ -325,7 +325,7 @@ footer{padding:0;position:relative;text-align:center; background-color: #131712;
             .address {font-family: $font2;color: #fff;text-align:left;font-size: 16px;}
         }
     }
-    #copyright { display: flex;flex-wrap: wrap;justify-content: space-between;max-width: 1500px;margin: auto;padding:30px 10px 50px;text-align:center;color:#BEA4A4;font-family: $font2;font-size: 12px;
+    #copyright { display: flex;flex-wrap: wrap;justify-content: space-between;max-width: 1200px;margin: auto;padding:30px 10px 50px;text-align:center;color:#BEA4A4;font-family: $font2;font-size: 12px;
         a {color: $primary;
             &:hover{color: $secondary}
         }

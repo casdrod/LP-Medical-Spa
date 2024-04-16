@@ -1064,7 +1064,7 @@ footer {
   background-color: #131712;
 }
 footer #footer-content {
-  max-width: 1500px;
+  max-width: 1200px;
   background-color: #fafafa;
   justify-content: space-between;
   margin: auto;
@@ -1079,7 +1079,7 @@ footer #footer-content h3 {
   font-family: brother-1816, sans-serif;
   color: #D5C052;
   font-weight: 700;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   text-align: left;
 }
 footer #footer-content h2 {
@@ -1089,6 +1089,7 @@ footer #footer-content h2 {
   font-size: 20px;
   text-align: left;
   margin-bottom: 20px;
+  margin-top: 0;
 }
 footer #footer-content #footer-form {
   /* --- online appointment form --- */
@@ -1302,7 +1303,7 @@ footer #copyright {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  max-width: 1500px;
+  max-width: 1200px;
   margin: auto;
   padding: 30px 10px 50px;
   text-align: center;
